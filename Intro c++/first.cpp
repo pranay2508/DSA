@@ -15,3 +15,4 @@ int main() {
 
     return 0;
 }
+// the outut will totally depend on the compiler 
