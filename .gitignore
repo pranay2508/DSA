@@ -1,0 +1,16 @@
+*.exe
+# Ignore executable files
+*.exe
+
+# Ignore compiled object files
+*.o
+
+# Ignore backup files
+*.bak
+
+# Ignore logs
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
