@@ -1,9 +1,3 @@
-// #include <iostream>
-// using std :: cout ;
-// int main() {
-//     int pranay = 8;
-//     cout << pranay ;
-// };
 
 #include <iostream>
 using namespace std;
