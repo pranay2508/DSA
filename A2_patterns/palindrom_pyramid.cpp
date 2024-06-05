@@ -30,7 +30,6 @@
 //     return 0;
 // }
 
-
 // half pyramid solid 
 
 // #include <iostream>
